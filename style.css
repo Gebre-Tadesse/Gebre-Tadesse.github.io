@@ -1,0 +1,59 @@
+body{
+    background-image: url(02.jpg);
+    background-size: 90%;
+    
+}
+
+div{
+    background-color:#ffffff;
+    color:rgb(77, 0, 128);
+    text-size-adjust: 25px;
+    text-align: center;
+    
+}
+
+
+h1{
+    text-align: center;
+    background-color:orange;
+    color: blue;
+    text-size-adjust: 10px;
+    
+}
+p
+{
+
+ color:rgb(29, 19, 19) ; 
+ text-transform:none;
+ font-size: 30px;
+ text-align: center;
+ padding-left: 5%; padding-right: 15%;
+
+}
+h2{
+    color:rgb(236, 8, 8);
+    text-align:left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h4{
+    
+    color:blue;
+    text-align: left;
+
+
+}
+h3{
+   
+
+
+    color:chartreuse;
+    text-size-adjust: 10px;
+    text-align: left;
+    background-size: 15%;
+}
+h5{
+    text-align: left;
+    color:rgb(29, 19, 19) ; 
+    text-transform:none;
+    font-size: 30px;
+}
